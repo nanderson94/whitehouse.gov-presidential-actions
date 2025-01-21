@@ -1,15 +1,43 @@
-HTTrack3.49-5 launched on Mon, 20 Jan 2025 20:39:50 at https://www.whitehouse.gov/presidential-actions/
-(httrack https://www.whitehouse.gov/presidential-actions/ )
+HTTrack3.49-5 launched on Mon, 20 Jan 2025 20:45:48 at https://www.whitehouse.gov/presidential-actions/
+(httrack -%F  -iC2 - https://www.whitehouse.gov/presidential-actions/ )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:39:56	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/e,location.href (from https://www.whitehouse.gov/presidential-actions/)
-20:40:16	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/e,location.href (from https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/)
-20:40:17	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/e,location.href (from https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/)
-20:40:17	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/e,location.href (from https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/)
+20:45:49	Warning: 	HTML file (103241 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/
+20:45:50	Warning: 	HTML file (104490 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/page/2/
+20:45:53	Warning: 	HTML file (96156 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/
+20:45:55	Warning: 	HTML file (83344 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-for-career-senior-executives/
+20:45:56	Warning: 	HTML file (80263 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture/
+20:45:58	Warning: 	HTML file (85917 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/
+20:45:59	Warning: 	HTML file (81424 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/
+20:46:00	Warning: 	HTML file (103598 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/page/3/
+20:46:00	Warning: 	HTML file (90839 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/page/4/
+20:46:01	Warning: 	HTML file (87322 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/
+20:46:03	Warning: 	HTML file (84442 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/
+20:46:05	Warning: 	HTML file (85247 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/
+20:46:07	Warning: 	HTML file (103895 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/
+20:46:08	Warning: 	HTML file (84421 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states/
+20:46:09	Warning: 	HTML file (94290 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/
+20:46:11	Warning: 	HTML file (81673 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-to-resolve-the-backlog-of-security-clearances-for-executive-office-of-the-president-personnel/
+20:46:13	Warning: 	HTML file (86985 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/
+20:46:13	Warning: 	HTML file (91090 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/
+20:46:15	Warning: 	HTML file (86756 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/
+20:46:17	Warning: 	HTML file (81718 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/
+20:46:19	Warning: 	HTML file (83686 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review/
+20:46:19	Warning: 	HTML file (78960 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/
+20:46:21	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/page/2/e,location.href (from https://www.whitehouse.gov/presidential-actions/page/2/)
+20:46:21	Warning: 	HTML file (84392 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/
+20:46:22	Warning: 	HTML file (83107 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/
+20:46:25	Warning: 	HTML file (154127 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/
+20:46:25	Warning: 	HTML file (140947 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day/
+20:46:26	Warning: 	HTML file (84483 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/
+20:46:28	Warning: 	HTML file (85622 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders/
+20:46:31	Warning: 	HTML file (85313 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments/
+20:46:32	Warning: 	HTML file (81334 bytes) retransferred due to lack of cache: https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/
+20:46:35	Error: 	"Not Found" (404) at link https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/e,location.href (from https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
 
-HTTrack Website Copier/3.49-5 mirror complete in 27 seconds : 35 links scanned, 30 files written (2845690 bytes overall) [610656 bytes received at 22616 bytes/sec], 2853333 bytes transferred using HTTP compression in 35 files, ratio 20%, 7.0 requests per connection
-(4 errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-5 mirror complete in 47 seconds : 38 links scanned, 35 files written (3215774 bytes overall) [2894579 bytes received at 61586 bytes/sec], 520475 bytes transferred using HTTP compression in 8 files, ratio 22%, 1.1 requests per connection
+(2 errors, 30 warnings, 0 messages)
